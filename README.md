@@ -14,7 +14,9 @@ As I said, I enjoy collaborating with the Linux kernel community. You can find m
 
 This is the question I have been asked in almost all job interviews I have participated. Sigh. I have been working with Linux almost 20 years. Last 10 mostly writing device/bus drivers. Still... Do I know Linux? According to the web there were 20.7 Million lines of code in Linux at 2020. (I didn't check this but the figure sounds reasonable to me. You can for example run cloc to find out more accurate and current numbers). Point being? Who can master 20.7 million lines of code? And to be more precise - 20.7 million lines of fast evolving code. No one.
 
-More relevant question is if I know certain parts of code, or if I know where to find out the needed details? For that the answer is yes and yes. I know a few device driver frameworks and drivers. I know where to look for examples or documentation. For new and hard questions I even have few colleagues (local and remote) whom I can discuss with.
+More relevant question is if I know certain parts of code, or if I know where to find out the needed details? For that the answer is yes and yes. I know a few device driver frameworks and drivers. I know where to look for examples or documentation. For new and hard questions I even have few colleagues (local and remote) whom I can discuss with. Maybe most importantly - there is the whole broad Linux kernel community.
+
+Still, do I know all the Linux? Am I a jack of all trades there? No. I don't. Ni, I am not. I know my strenghts and points which need improvement - and I do always consider what I can do and what I can't do or someone else does better.
 
 ### Wish to have a chat?
 
